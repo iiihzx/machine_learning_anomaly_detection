@@ -1,4 +1,4 @@
-# machine_learning_anomaly_detection
+# machine_learning_amazon——nlp
 A pyspark project that utilize food reviews from amazon to predict the ratings given by users.
 data source:
 https://www.kaggle.com/snap/amazon-fine-food-reviews
